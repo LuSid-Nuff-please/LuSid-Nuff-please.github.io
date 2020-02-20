@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 메이플스토리 보스 모집 페이지
 
 You can use the [editor on GitHub](https://github.com/LuSid-Nuff-please/LuSid-Nuff-please.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
